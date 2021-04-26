@@ -23,5 +23,5 @@ Tools Used:
 
 # Summary 
 
-There is
+As the sample size in this data set is rather small with just 170 paid reviews, it is hard to conclude that there is much bias in the Vine program. Since there are significantly more non-vine reviews than vine reviews it makes it more complicated to get a reliable comparison. However judging off of only the data available it would appear that participation in the program does not mean better reviews as the paid reviews had a lower percentage of 5 star reviews (38.2%) than that of the non paid reviews (54.5%). 
 

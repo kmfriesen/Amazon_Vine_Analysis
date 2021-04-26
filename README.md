@@ -1,9 +1,24 @@
 # Amazon_Vine_Analysis
 
-* Need to update this with the information below
-* 
-Analysis (14 points)
-The written analysis has the following:
+# Overview
+
+The analysis uses data from reviews of a different category of products on Amazon and in this case pet products. Each review is are either vine-sponsored or non-vine-sponsored. The goal of this analysis is to see if there is any bias towards how the paid members rate vs the un-paid members.
+Tools Used:
+- PySpark
+- Postgres SQL
+- Amazon RDS
+
+# Results 
+
+
+
+
+# Summary 
+
+
+
+
+
 
 Overview of the analysis of the Vine program:
 

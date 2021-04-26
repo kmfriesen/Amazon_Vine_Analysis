@@ -3,6 +3,7 @@
 # Overview
 
 The analysis uses data from reviews of a different category of products on Amazon and in this case pet products. Each review is are either vine-sponsored or non-vine-sponsored. The goal of this analysis is to see if there is any bias towards how the paid members rate vs the un-paid members.
+
 Tools Used:
 - PySpark
 - Postgres SQL
@@ -10,23 +11,14 @@ Tools Used:
 
 # Results 
 
-
-
+1. How many Vine review and non-Vine reviews are there?
+- There are 94 vine reviews vs 40565 un-paid reviews
+2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+- Out of the 15711 5-star reviews, only 48 were paid
+3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+- 3% of the Vine reviews were 5-stars, which leaves 99.7% of the reviews to people that were un-paid.
 
 # Summary 
 
+There is
 
-
-
-
-
-Overview of the analysis of the Vine program:
-
-The purpose of this analysis is well defined (3 pt)
-Results:
-
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
-Summary:
-
-The summary states whether or not there is bias, and the results support this statement (2 pt)
-An additional analysis is recommended to support the statement (2 pt)

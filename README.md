@@ -18,7 +18,7 @@ Tools Used:
 - Out of the 20677 5-star reviews, only 65 were paid
 
 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-- 38.2% of the Vine reviews were 5-stars, which leaves 54.5% of the reviews to people that were un-paid.
+- 38.2% of the Vine reviews were 5-stars, which leaves 54.5% of the reviews to people that were un-paid
 
 
 # Summary 
